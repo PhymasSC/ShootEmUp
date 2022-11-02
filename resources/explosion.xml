@@ -1,0 +1,16 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="tile000.png" x="0" y="372" width="88" height="88"/>
+	<SubTexture name="tile001.png" x="538" y="166" width="140" height="148"/>
+	<SubTexture name="tile002.png" x="676" y="316" width="140" height="148"/>
+	<SubTexture name="tile003.png" x="530" y="344" width="144" height="156"/>
+	<SubTexture name="tile004.png" x="530" y="0" width="148" height="164"/>
+	<SubTexture name="tile005.png" x="372" y="0" width="156" height="164"/>
+	<SubTexture name="tile006.png" x="364" y="344" width="164" height="160"/>
+	<SubTexture name="tile007.png" x="364" y="178" width="172" height="164"/>
+	<SubTexture name="tile008.png" x="190" y="0" width="180" height="176"/>
+	<SubTexture name="tile009.png" x="0" y="0" width="188" height="180"/>
+	<SubTexture name="tile010.png" x="0" y="182" width="188" height="184"/>
+	<SubTexture name="tile011.png" x="190" y="178" width="172" height="192"/>
+	<SubTexture name="tile012.png" x="680" y="0" width="104" height="196"/>
+	<SubTexture name="tile013.png" x="0" y="462" width="36" height="36"/>
+</TextureAtlas>

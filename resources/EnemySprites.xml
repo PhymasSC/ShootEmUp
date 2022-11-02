@@ -1,0 +1,19 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="Enemy_1.png" x="327" y="0" width="124" height="92"/>
+	<SubTexture name="Enemy_10.png" x="156" y="364" width="152" height="108"/>
+	<SubTexture name="Enemy_11.png" x="186" y="0" width="139" height="104"/>
+	<SubTexture name="Enemy_12.png" x="446" y="392" width="114" height="94"/>
+	<SubTexture name="Enemy_13.png" x="541" y="110" width="75" height="112"/>
+	<SubTexture name="Enemy_14.png" x="455" y="110" width="84" height="132"/>
+	<SubTexture name="Enemy_15.png" x="0" y="0" width="184" height="120"/>
+	<SubTexture name="Enemy_16.png" x="0" y="243" width="175" height="119"/>
+	<SubTexture name="Enemy_17.png" x="0" y="122" width="178" height="119"/>
+	<SubTexture name="Enemy_2.png" x="322" y="106" width="126" height="88"/>
+	<SubTexture name="Enemy_3.png" x="453" y="0" width="108" height="108"/>
+	<SubTexture name="Enemy_4.png" x="446" y="298" width="116" height="92"/>
+	<SubTexture name="Enemy_5.png" x="327" y="196" width="126" height="100"/>
+	<SubTexture name="Enemy_6.png" x="310" y="328" width="134" height="105"/>
+	<SubTexture name="Enemy_7.png" x="0" y="364" width="154" height="98"/>
+	<SubTexture name="Enemy_8.png" x="180" y="122" width="140" height="92"/>
+	<SubTexture name="Enemy_9.png" x="177" y="243" width="148" height="83"/>
+</TextureAtlas>
