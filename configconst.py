@@ -2,12 +2,12 @@ import os
 import random
 
 import pygame
-from win32api import GetSystemMetrics
-
 from spritesheet import SpriteSheet
+from screeninfo import get_monitors
 
-DESKTOP_WIDTH = GetSystemMetrics(0)
-DESKTOP_HEIGHT = GetSystemMetrics(1)
+monitor = get_monitors()[0]
+DESKTOP_WIDTH = monitor.width
+DESKTOP_HEIGHT = monitor.height
 
 WIDTH = 360
 HEIGHT = 640
